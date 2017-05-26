@@ -1,0 +1,5 @@
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.BLL\bin\Debug\nTierApplication.BLL.dll
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.BLL\bin\Debug\nTierApplication.BLL.pdb
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.BLL\obj\Debug\nTierApplication.BLL.dll
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.BLL\obj\Debug\nTierApplication.BLL.pdb
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.BLL\obj\Debug\nTierApplication.BLL.csprojResolveAssemblyReference.cache

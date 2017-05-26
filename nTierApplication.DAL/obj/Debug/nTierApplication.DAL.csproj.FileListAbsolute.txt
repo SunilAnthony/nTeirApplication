@@ -1,0 +1,12 @@
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\nTierApplication.DAL.dll
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\nTierApplication.DAL.pdb
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\obj\Debug\nTierApplication.DAL.dll
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\obj\Debug\nTierApplication.DAL.pdb
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\nTierApplication.DAL.dll.config
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\EntityFramework.dll
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\nTierApplication.Core.dll
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\nTierApplication.Core.pdb
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\EntityFramework.xml
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sunil.anthony\Documents\Visual Studio 2015\Projects\nTierApplication\nTierApplication.DAL\obj\Debug\nTierApplication.DAL.csprojResolveAssemblyReference.cache
